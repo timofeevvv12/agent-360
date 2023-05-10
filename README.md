@@ -46,11 +46,7 @@ Agent360 offers a range of features for users, including:
 
 ## Installation
 
-To install Agent360, you can follow these steps:
-
-1. Clone the repository onto your local machine using `git clone https://github.com/agent360/real-estate-tour-creator.git`
-2. Navigate to the project directory using `cd real-estate-tour-creator`
-3. Install the necessary dependencies using `npm install`
+No installation required
 
 ## Usage
 
@@ -76,4 +72,4 @@ Please note that all contributions are subject to review and approval by the Age
 
 ## License
 
-Agent360 is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+No license
